@@ -23,7 +23,6 @@ def manhattan_distance(vector_1, vector_2):
     # Return the sum of absolute differences
     return sum_absolute_difference
 
-# Example usage:
 vector_1 = [1, 2, 3]
 vector_2 = [4, 5, 6]
 
